@@ -50,4 +50,4 @@ $$
 **需要注意**
 
 * **行内公式与行间公式定界符的差异。**
-* **行间公式尽量避免使用定界符`$$......$$`，优先使用定界符有： `\[ ... \]`。原因可参考**[**Wikibook**](https://en.wikibooks.org/wiki/LaTeX/Mathematics)****
+* **行间公式尽量避免使用定界符`$$......$$`，优先使用定界符有： `\[ ... \]`。原因可参考**[**Wikibook**](https://en.wikibooks.org/wiki/LaTeX/Mathematics)

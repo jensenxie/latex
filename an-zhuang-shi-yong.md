@@ -37,4 +37,3 @@ extra parameters or packages included.
 
 以上全是最简单的Latex文本结构，`\documentclass{article}`, `\begin{document}` 和 `\end{document}`这三个指令/标签缺一不可。
 
-``
